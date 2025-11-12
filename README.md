@@ -1,13 +1,19 @@
-# osb
-OSB
+# OSB
 
-## Back end
-O back end foi desenvolvido usando Node.js e express, para
-executar: ``` npm install ```
-          ``` node server.js ```
+## Back End
+O back end foi desenvolvido usando **Node.js** e **Express**.  
+Para executar:
 
-## Front end
-O back end foi desenvolvido usando ReactJS em vite, para
-executar:\ ``` npm install ```\
-          ``` npm run dev ```   \  
-Precisa do node versão 20.19.0
+```bash
+npm install
+node server.js
+```
+## Front End
+
+O front end foi desenvolvido usando ReactJS com Vite.
+Para executar:
+```bash
+npm install
+npm run dev
+```
+Precisa ser na versão do node 20.19.0
