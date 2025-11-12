@@ -2,6 +2,7 @@
 
 ## Back End
 O back end foi desenvolvido usando **Node.js** e **Express**.  
+É necessário configurar o .env com a variável GEMINI_API_KEY
 Para executar:
 
 ```bash
